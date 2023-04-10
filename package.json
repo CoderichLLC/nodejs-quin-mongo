@@ -1,6 +1,6 @@
 {
   "name": "@coderich/quin-mongo",
-  "main": "src/index.js",
+  "main": "src/MongoResolver.js",
   "version": "0.0.0",
   "publishConfig": {
     "access": "public"
